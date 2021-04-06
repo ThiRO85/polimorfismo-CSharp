@@ -1,0 +1,16 @@
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.exe
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.deps.json
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.runtimeconfig.json
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.runtimeconfig.dev.json
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.dll
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\bin\Debug\net5.0\ref\ExercicioPolimorfismo.dll
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\bin\Debug\net5.0\ExercicioPolimorfismo.pdb
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.csprojAssemblyReference.cache
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.AssemblyInfo.cs
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.dll
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\obj\Debug\net5.0\ref\ExercicioPolimorfismo.dll
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.pdb
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExercicioPolimorfismo\obj\Debug\net5.0\ExercicioPolimorfismo.genruntimeconfig.cache
